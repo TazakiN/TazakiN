@@ -17,4 +17,4 @@ Always open to learning new things, I enjoy challenging myself with intriguing a
 
 ## 🏆 Github Trophy
 
-![TazakiN's Trophy](https://github-profile-trophy.vercel.app/?username=TazakiN)
+![TazakiN's Trophy](https://github-profile-trophy.vercel.app/?username=TazakiN&theme=onedark)
